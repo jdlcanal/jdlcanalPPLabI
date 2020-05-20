@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1589378919 source:c:\users\juan de la canal\desktop\mascotas\funcionesservicios.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcionesServicios.h"
+	"dataWarehouse.h"
+
+1589377882 c:\users\juan de la canal\desktop\mascotas\funcionesservicios.h
+
+1589378449 source:c:\users\juan de la canal\desktop\mascotas\funcionestipos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcionesTipos.h"
+	"dataWarehouse.h"
+
+1589375566 c:\users\juan de la canal\desktop\mascotas\funcionestipos.h
+
+1589378481 source:c:\users\juan de la canal\desktop\mascotas\funcionescolores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcionesColores.h"
+	"dataWarehouse.h"
+
+1589377882 c:\users\juan de la canal\desktop\mascotas\funcionescolores.h
+
+1589377996 source:c:\users\juan de la canal\desktop\mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcionesMascotas.h"
+	"funcionesColores.h"
+	"funcionesTipos.h"
+	"funcionesServicios.h"
+	"dataWarehouse.h"
+
+1589375858 c:\users\juan de la canal\desktop\mascotas\funcionesmascotas.h
+	"funcionesColores.h"
+	"funcionesTipos.h"
+
+1589377996 source:c:\users\juan de la canal\desktop\mascotas\funcionesmascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcionesMascotas.h"
+
+1589378647 c:\users\juan de la canal\desktop\mascotas\datawarehouse.h
+
+1589929704 source:s:\users\juan de la canal\codeblocks\mascotas\funcionescolores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcionesColores.h"
+
+1589928766 s:\users\juan de la canal\codeblocks\mascotas\funcionescolores.h
+
+1589380413 s:\users\juan de la canal\codeblocks\mascotas\datawarehouse.h
+
+1589983017 source:s:\users\juan de la canal\codeblocks\mascotas\funcionesmascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcionesMascotas.h"
+
+1589980535 s:\users\juan de la canal\codeblocks\mascotas\funcionesmascotas.h
+	"funcionesColores.h"
+	"funcionesTipos.h"
+
+1589928766 s:\users\juan de la canal\codeblocks\mascotas\funcionestipos.h
+
+1589949775 source:s:\users\juan de la canal\codeblocks\mascotas\funcionesservicios.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcionesServicios.h"
+
+1589950904 s:\users\juan de la canal\codeblocks\mascotas\funcionesservicios.h
+
+1589929704 source:s:\users\juan de la canal\codeblocks\mascotas\funcionestipos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcionesTipos.h"
+
+1589978043 source:s:\users\juan de la canal\codeblocks\mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcionesMascotas.h"
+	"funcionesColores.h"
+	"funcionesTipos.h"
+	"funcionesServicios.h"
+	"funcionesTrabajo.h"
+
+1589978032 s:\users\juan de la canal\codeblocks\mascotas\funcionestrabajo.h
+	"funcionesMascotas.h"
+	"funcionesServicios.h"
+
+1589978032 source:s:\users\juan de la canal\codeblocks\mascotas\funcionestrabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcionesTrabajo.h"
+
